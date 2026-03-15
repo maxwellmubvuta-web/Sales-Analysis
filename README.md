@@ -16,6 +16,8 @@
 
 This data Analysis aim to provide insights into the sales performance of Global Superstore company over a period of a year (2016). By analyzing various aspects of the sales data, we seek to identify trends, make the data driven recommendations and gain deeper understanding of the company’s performance.
 
+
+
 ### Data Source
 
 Sales data: The primary dataset used for this analysis is the “ Google Spreadsheets dataset, Csv” file, containing detailed information about each sale made by the company.
