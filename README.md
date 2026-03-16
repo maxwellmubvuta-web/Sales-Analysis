@@ -40,10 +40,8 @@ In the initial phase, we performed the following tasks.
 EDA involved exploring the sales data to answer the following questions, such as:
 -	What is the overall sales trend?
 - What products are top sellers?
-- What are the peak sales periods?
 - Which regions are more profitable?
 - What is the impact of discounts on profitability?
-
 
 ### Data Analysis
 
@@ -62,21 +60,21 @@ Interesting code/features worked on
 ### Results/ Findings
 
 The analysis results are summarized as follows:
-1. The company’s sales have been steadily increasing over the years, with a noticeable peak during the holiday season.
-2. Product category A is the best performing category in terms of sales and revenue.
-3. Customer segment with high lifetime value (LTV) should be targeted for marketing efforts.
+1. The company’s sales are best in the Western Europe region followed by Central America, with a noticeable peak in all the three product categories. 
+2.	Consumer segment is the best performing category in terms of sales and revenue.
+3.	Customer segment with high lifetime value (LTV) should be targeted for marketing efforts.
+4.	Technology products are more profitable such as copiers and cellphones; hence marketing efforts and budget should be skewed towards these.
 
 ### Recommendations
 
 Based on the analysis, we recommend the following actions:
-- Invest in marketing and promotions during peak sales season to maximize revenue.
-- Focus on expanding and promoting products in category A
+- Invest in marketing and promotions for the most profitable products to maximize revenue.
+- Focus on expanding and promoting products in consumer category
 - Implement a customer segmentation strategy to target high – LTV customers effectively.
 
 ### Limitations/ Disclaimer
 
 [Any action taken on data that would affect the quality and accuracy of the analysis and results e.g. exclusion or removal of records that would affect accuracy of the results/report so that the person who is reviewing the report will have some context of the analysis]
-
 
 I had to remove all zero values from the sales and revenue columns because they would have affected the accuracy of my calculations from the analysis. There are a few outliers even after the omissions but even then, we can still see that there is a positive correlation between both sales numbers and revenue.
 
