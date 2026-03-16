@@ -30,7 +30,7 @@ Sales data: The primary dataset used for this analysis is the “ Google Spreads
 ### Data Cleaning/ Preparation
 
 In the initial phase, we performed the following tasks.
-1. Data loading and inspection
+1. Data loading and inspection using ETL
 2. Handling missing values
 3. Removed duplicates
 4. Data cleaning and formatting
